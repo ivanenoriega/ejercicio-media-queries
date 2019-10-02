@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Orientation</title>
+  <style>
+    body {
+      padding: 20px;
+      font-family: Helvetica;
+      background-color: #20262e;
+    }
+    .portrait {
+      background: blue;
+      width: 80%;
+      margin: 0 auto;
+      height: 200px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .portrait:before {
+      content: 'Cuando el viewport esté en portrait';
+      color: white;
+    }
+    @media screen and (orientation: landscape) {
+      .portrait {
+      background: pink;
+    }
+    .portrait:before {
+      content: 'Cuando el viewport esté en landscape';
+      color: white;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="portrait"></div>
+</body>
+</html>
