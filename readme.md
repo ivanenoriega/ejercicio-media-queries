@@ -2,7 +2,7 @@
 
 > Sigue los pasos para completar el ejercicio
 
-## En dispositivos tipo tablets (768px): las columnas, todas, tengan un ancho del 50%.
+## 1 -En dispositivos tipo tablets (768px): las columnas, todas, tengan un ancho del 50%.
 
 Ayuda selectores avanzados con pseudo classes para seleccionar todos los elementos que tengan una clase que comience con:
 
@@ -11,15 +11,13 @@ Ayuda selectores avanzados con pseudo classes para seleccionar todos los element
 - `[class^="col-"]` seria: todas las clases que comiencen con col-
 - `:not()` entre paréntesis le decimos lo que NO queremos que incluya. Por ejemplo: `[class|="col"]:not(.col-12)` seria: todas las clases que comiencen con col- perooo nooo .col-12
 
-## En la misma media query anterior, debemos crear un selector para nuestras filas (.row), que deberán tener:
+## 2 - En la misma media query anterior, debemos crear un selector para nuestras filas (.row), que deberán tener:
 
 - propiedad `display: flex;`
 - el contenido deberá justificarse `justify-content` dejando el espacio disponible entre las columnas `space-between`
 - y las columnas deberán alinearse `align-items` en el centro `center`.
 
-## que en dispositivos tipo desktop (960px):
-
-las columnas tengan un tamaño de acuerdo a la siguiente tabla:
+## 3 - que en dispositivos tipo desktop (960px) las columnas tengan un tamaño de acuerdo a la siguiente tabla:
 
 > ! el important se lo colocamos para que aplique la regla, ya que selector que utilizamos antes es más especifico que el que vamos a utilizar aquí.
 > archivo para modificar el tamaño de las columnas: https://docs.google.com/spreadsheets/d/1w-D3KcLGcfwJVMXFUWcQD6AuzZ_SjsvVHNB974qRLgw/edit?usp=sharing
@@ -37,6 +35,6 @@ las columnas tengan un tamaño de acuerdo a la siguiente tabla:
 - `col-11: 89.81481481% !important`
 - `col-12: 100% !important`
 
-## Edita el contenido HTML para obtener el siguiente resultado:
+## 4 - Edita el contenido HTML para obtener el siguiente resultado:
 
 ![alt text](https://github.com/ivanenoriega/ejercicio-media-queries/blob/master/assets/1570045615475.png)
