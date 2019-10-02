@@ -39,4 +39,4 @@ las columnas tengan un tamaño de acuerdo a la siguiente tabla:
 
 ## Edita el contenido HTML para obtener el siguiente resultado:
 
-![alt text](https://raw.githubusercontent.com/com/ivanenoriega/ejercicio-media-queries/master/assets/img.png)
+![alt text](https://github.com/ivanenoriega/ejercicio-media-queries/blob/master/assets/1570045615475.png)
