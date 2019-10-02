@@ -37,6 +37,6 @@ las columnas tengan un tamaño de acuerdo a la siguiente tabla:
 - `col-11: 89.81481481% !important`
 - `col-12: 100% !important`
 
-## Edita el contenido HTML para obtener el siguiente resultado:
+## Edita el contenido HTML para obtener el siguiente resultado:
 
 ![alt text](https://github.com/ivanenoriega/ejercicio-media-queries/blob/master/assets/1570045615475.png)
