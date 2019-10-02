@@ -46,3 +46,5 @@ Ayuda selectores avanzados con pseudo classes para seleccionar todos los element
 - Cualquier dato que quieras.
 
 Ejemplo: ![alt text](https://github.com/ivanenoriega/ejercicio-media-queries/blob/master/assets/1570047825711.png)
+
+## 6 - Crear una Pull Request al repo principal
