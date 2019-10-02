@@ -1,0 +1,16 @@
+ body {
+  max-width: 1080px;
+  margin: 0 auto;
+  font-size: 1em;
+}
+.row {
+  background: blue;
+  margin: 5px;
+}
+[class|="col"] {
+  background: deeppink;
+  border: 2px solid blue;
+  padding: 30px 0;
+  width: 100%;
+}
+
