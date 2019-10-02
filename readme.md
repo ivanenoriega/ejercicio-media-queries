@@ -24,15 +24,15 @@ las columnas tengan un tamaño de acuerdo a la siguiente tabla:
 > ! el important se lo colocamos para que aplique la regla, ya que selector que utilizamos antes es más especifico que el que vamos a utilizar aquí.
 > archivo para modificar el tamaño de las columnas: https://docs.google.com/spreadsheets/d/1w-D3KcLGcfwJVMXFUWcQD6AuzZ_SjsvVHNB974qRLgw/edit?usp=sharing
 
-- col-1: 6.481481481% !important
-- col-2: 14.81481481% !important
-- col-3: 23.14814815% !important
-- col-4: 31.48148148% !important
-- col-5: 39.81481481% !important
-- col-6: 48.14814815% !important
-- col-7: 56.48148148% !important
-- col-8: 64.81481481% !important
-- col-9: 73.14814815% !important
-- col-10: 81.48148148% !important
-- col-11: 89.81481481% !important
-- col-12: 100% !important
+- `col-1: 6.481481481% !important`
+- `col-2: 14.81481481% !important`
+- `col-3: 23.14814815% !important`
+- `col-4: 31.48148148% !important`
+- `col-5: 39.81481481% !important`
+- `col-6: 48.14814815% !important`
+- `col-7: 56.48148148% !important`
+- `col-8: 64.81481481% !important`
+- `col-9: 73.14814815% !important`
+- `col-10: 81.48148148% !important`
+- `col-11: 89.81481481% !important`
+- `col-12: 100% !important`
