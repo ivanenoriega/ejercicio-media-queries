@@ -38,3 +38,11 @@ Ayuda selectores avanzados con pseudo classes para seleccionar todos los element
 ## 4 - Edita el contenido HTML para obtener el siguiente resultado:
 
 ![alt text](https://github.com/ivanenoriega/ejercicio-media-queries/blob/master/assets/1570045615475.png)
+
+## 5 - Agrega una nueva "row" que contenga tres "col" los siguientes datos:
+
+- Nombre y apellido.
+- Tecnologia favorita (HTML, CSS o Javasctipt).
+- Cualquier dato que quieras.
+
+Ejemplo: ![alt text](https://github.com/ivanenoriega/ejercicio-media-queries/blob/master/assets/1570047825711.png)
