@@ -39,7 +39,7 @@ Ayuda selectores avanzados con pseudo classes para seleccionar todos los element
 
 ![alt text](https://github.com/ivanenoriega/ejercicio-media-queries/blob/master/assets/1570045615475.png)
 
-## 5 - Agrega una nueva "row" que contenga tres "col" los siguientes datos:
+## 5 - Agrega una nueva "row" que contenga tres "col" con los siguientes datos:
 
 - Nombre y apellido.
 - Tecnologia favorita (HTML, CSS o Javasctipt).
