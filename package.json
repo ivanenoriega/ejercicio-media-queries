@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio-media-queries",
+  "version": "1.0.0",
+  "description": "test wiht jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanenoriega/ejercicio-media-queries.git"
+  },
+  "author": "Ivan Emiliano Noriega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanenoriega/ejercicio-media-queries/issues"
+  },
+  "homepage": "https://github.com/ivanenoriega/ejercicio-media-queries#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
